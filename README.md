@@ -14,9 +14,8 @@ The video is about making my homemade DIY CNC with 3D printed parts. I've design
 
 To control the machine I'm using an Arduino UNO with GRBL firmware and an Arduino CNC Shield. There are plenty of tutorials to find on how to connect and use it so I did not show it in the video. Here are some useful links:
 
-[GRBL](https://github.com/gnea/grbl)
-
-[Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield/)
+* [GRBL](https://github.com/gnea/grbl)
+* [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield/)
 
 ### Power and motors
 
