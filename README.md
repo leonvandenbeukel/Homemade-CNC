@@ -7,7 +7,7 @@ alt="Click to view: Homemade CNC with 3D printed parts" width="500" border="10" 
 
 ### Cost estimation
 
-[Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAYMiPSLNSFAx9bK11CHd6tc-5phIbJY1AtSAjcyATRbZvdDSyTKB5_P1hYdHO0VamVOjqQyz4cLyY/pubhtml?gid=0&single=true "Link")
+* [Link to Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAYMiPSLNSFAx9bK11CHd6tc-5phIbJY1AtSAjcyATRbZvdDSyTKB5_P1hYdHO0VamVOjqQyz4cLyY/pubhtml?gid=0&single=true "Link to Google Sheet")
 
 ### About the video
 The video is about making my homemade DIY CNC with 3D printed parts. I've designed the 3D printed parts with Fusion 360. 
