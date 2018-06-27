@@ -3,7 +3,7 @@
 ### YouTube video
 
 <a href="https://youtu.be/CDPI4gFxyAQ" target="_blank"><img src="https://img.youtube.com/vi/CDPI4gFxyAQ/0.jpg" 
-alt="Homemade CNC with 3D printed parts" width="240" height="180" border="10" /></a>
+alt="Click to view: Homemade CNC with 3D printed parts" width="500" border="10" /></a>
 
 ### Cost estimation
 
