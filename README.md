@@ -1,9 +1,13 @@
 # Homemade CNC
 
+## Warning
+
+If you want to make this machine yourself: it's 'under construction' and will probably be modified over time. I share my design for others to experiment and learn how to create your own CNC. Don't expect this to be the 'perfect' machine!
+
 ### YouTube video
 
 <a href="https://youtu.be/CDPI4gFxyAQ" target="_blank"><img src="https://img.youtube.com/vi/CDPI4gFxyAQ/0.jpg" 
-alt="Click to view: Homemade CNC with 3D printed parts" width="500" border="10" /></a>
+alt="Click to view: Homemade CNC with 3D printed parts" width="500" border="1" /></a>
 
 ### Cost estimation
 
@@ -28,11 +32,20 @@ To power the NEMA 17 stepper motors I've converted an old ATX PC power supply an
 * Easel by Inventables (http://easel.inventables.com)
 * Fusion 360 with CAM (https://www.autodesk.com/products/fus...)
 
-### Warning 
-
-If you want to make this machine yourself: it's 'under construction' and will be modified over time. Please consider to subscribe to my YouTube channel if you want to see more updates and other projects that I do. 
-
 ### 3D Printing
 
 The 3D printer I use is an Anet A8. The parts are printed with PLA, mostly 20% infill and 0.2 or 0.4 setting. Use higher infill for parts that must be stronger, for example the stepper motor mounts.
 
+### Dimensions
+
+Base front panel: 710 x 180 x 22 mm or 28" x 7" x 0.86"
+Base side Y rails: 935 x 100 x 22 mm or 36.8" x 3.9" x 0.86"
+
+X rails carriage side panel: 360 x 185 x 10 mm or 14.2" x 7.3" x 0.39"
+X rails tube length: 630 mm or 24.8"
+
+Z rails tube length: 200 mm or 7.9"
+
+Wasteboard: 610 x 920 x 22 mm or 24" x 36.2" x 0.86"
+
+The threaded rods for Y and X rails are 8 mm (0.31") stainless steel. Lengths can be cut afterwards to fit the frame. Aluminium tubes are 15 x 15 mm (0.59").
