@@ -1,8 +1,8 @@
 # Homemade CNC
 
-## Warning
+## Warning!!
 
-If you want to make this machine yourself: it's 'under construction' and will probably be modified over time. I share my design for others to experiment and learn how to create your own CNC. Don't expect this to be the 'perfect' machine!
+This machine is 'under construction' and will be modified over time. I share my design for others to experiment and learn from it. At the moment I would not even recommend creating this machine yourself :smiley:
 
 ### YouTube video
 
