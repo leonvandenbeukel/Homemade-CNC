@@ -4,6 +4,9 @@
 
 This machine is 'under construction' and will be modified over time. I share my design for others to experiment and learn from it. At the moment I would not even recommend creating this machine yourself :smiley:
 
+### 2018/07/22 Update: 
+I'm currently working on an improved version so my advise is not to build the current version. More info to come... 
+
 ### YouTube video
 
 <a href="https://youtu.be/CDPI4gFxyAQ" target="_blank"><img src="https://img.youtube.com/vi/CDPI4gFxyAQ/0.jpg" 
