@@ -1,28 +1,42 @@
-# Homemade CNC
+## Homemade CNC 
 
-## Warning!!
+### Introduction
 
-This machine is 'under construction' and will be modified over time. I share my design for others to experiment and learn from it. At the moment I would not even recommend creating this machine yourself :smiley:
-
-### 2018/07/22 Update: 
-I'm currently working on an improved version so my advise is not to build the current version. More info to come... 
+This is the second version of my DIY homemade CNC. It's a complete redesign because of some issues that I had with the first one. The main issue with the first version was that the wooden Y axis was getting warped (by moisture I guess). Also the bearings were too small and the aluminium X rails were not strong enough to carry the weigth. That's why I've switched over to use 20mm x 20mm square steel tubes for both Y- and X axis. 
 
 ### YouTube video
 
-<a href="https://youtu.be/CDPI4gFxyAQ" target="_blank"><img src="https://img.youtube.com/vi/CDPI4gFxyAQ/0.jpg" 
-alt="Click to view: Homemade CNC with 3D printed parts" width="500" border="1" /></a>
+<a href="TODO" target="_blank"><img src="TODO" 
+alt="Click to view: Homemade CNC with 3D printed parts V2" width="500" border="1" /></a>
 
-### Cost estimation
+### Design
 
-* [Link to Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRAYMiPSLNSFAx9bK11CHd6tc-5phIbJY1AtSAjcyATRbZvdDSyTKB5_P1hYdHO0VamVOjqQyz4cLyY/pubhtml?gid=0&single=true "Link to Google Sheet")
-
-### About the video
-The video is about making my homemade DIY CNC with 3D printed parts. I've designed the 3D printed parts with Fusion 360. 
-
-To control the machine I'm using an Arduino UNO with GRBL firmware and an Arduino CNC Shield. There are plenty of tutorials to find on how to connect and use it so I did not show it in the video. Here are some useful links:
+I've designed the 3D printed parts with Fusion 360 and used Inkscape for the Y axis drilling template. To control the machine I'm using an Arduino UNO with GRBL firmware and an Arduino CNC Shield. There are plenty of tutorials to find on how to connect and use it so I did not show it in the video. Here are some useful links:
 
 * [GRBL](https://github.com/gnea/grbl)
 * [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield/)
+
+### Warning
+
+If you want to build one yourself you can download all the necessary files from the V2 directory but I don't have enough time to give you much support so build it at your own risk! :smiley:
+
+### 3D Printing
+
+The 3D printer I use is an Anet A8. The parts are printed with PLA, mostly 20% infill and 0.2 or 0.4 setting. Use higher infill for parts that must be stronger, for example the stepper motor mounts.
+
+### Cost estimation
+
+* [Link to Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQY4hpT6myB3YeNzVlFZfTstJrkYJus8l174NMnyP0J1uP0NMzN-vVNtQ_hvMKP-WXqgEPKxjZSqRSU/pubhtml "Link to Google Sheet")
+
+### Dimensions
+
+Base front multiplex Y panels are 710 x 180 x 22 mm or 28" x 7" x 0.86".
+The laminated MDF X Axis side panels are 180 x 370 mm or 7" x 14.4".
+
+The tubes are 20mm x 20mm (0.78") square steel tubes. The length of the Y Axis tubes is 1000mm (40") and the length for the X Axis is approx. 820mm (32"). As an alternative you could also use other dimensions than 20mm x 20mm (maybe even rounded tubes) as long as they are approximately that size.
+The Z axis tubes are 15mm x 15mm (0.59") aluminium square tubes, approx. 215mm long (8.5"). You should measure this for yourself, check the video build.
+
+The threaded rods for Y and X rails are 8 mm (0.31") stainless steel.
 
 ### Power and motors
 
@@ -31,24 +45,12 @@ To power the NEMA 17 stepper motors I've converted an old ATX PC power supply an
 ### Software that I mostly use to generate and send GCode:
 
 * bCNC (https://github.com/vlachoudis/bCNC)
-* Universal Gcode Sender (https://github.com/winder/Universal-G...)
+* Universal Gcode Sender (https://github.com/winder/Universal-G-Code-Sender)
 * Easel by Inventables (http://easel.inventables.com)
-* Fusion 360 with CAM (https://www.autodesk.com/products/fus...)
+* Fusion 360 with CAM (https://www.autodesk.com/products/fusion-360/students-teachers-educators)
 
-### 3D Printing
+### Help me make more stuff!
 
-The 3D printer I use is an Anet A8. The parts are printed with PLA, mostly 20% infill and 0.2 or 0.4 setting. Use higher infill for parts that must be stronger, for example the stepper motor mounts.
+All my designs are free to use! If you want to support my work you can buy me a coffee at https://www.buymeacoffee.com/beukel Thanks!
 
-### Dimensions
 
-Base front panel: 710 x 180 x 22 mm or 28" x 7" x 0.86"
-Base side Y rails: 935 x 100 x 22 mm or 36.8" x 3.9" x 0.86"
-
-X rails carriage side panel: 360 x 185 x 10 mm or 14.2" x 7.3" x 0.39"
-X rails tube length: 630 mm or 24.8"
-
-Z rails tube length: 200 mm or 7.9"
-
-Wasteboard: 610 x 920 x 22 mm or 24" x 36.2" x 0.86"
-
-The threaded rods for Y and X rails are 8 mm (0.31") stainless steel. Lengths can be cut afterwards to fit the frame. Aluminium tubes are 15 x 15 mm (0.59").
