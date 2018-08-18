@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is the second version of my DIY homemade CNC. It's a complete redesign because of some issues that I had with the first one. The main issue with the first version was that the wooden Y axis was getting warped (by moisture I guess). Also the bearings were too small and the aluminium X rails were not strong enough to carry the weigth. That's why I've switched over to use 20mm x 20mm square steel tubes for both Y- and X axis. 
+This is the second version of my DIY homemade CNC. It's a complete redesign because of some issues that I had with the first one. The main issue with the first version was that the wooden Y axis was getting warped (by moisture I guess). Also the bearings were too small and the aluminium X rails were not strong enough to carry the weight. That's why I've switched over to use 20mm x 20mm square steel tubes for both Y- and X axis. 
 
 ### YouTube video
 
