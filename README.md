@@ -6,7 +6,7 @@ This is the second version of my DIY homemade CNC. It's a complete redesign beca
 
 ### YouTube video
 
-<a href="TODO" target="_blank"><img src="TODO" 
+<a href="https://youtu.be/24RslguGy58" target="_blank"><img src="https://img.youtube.com/vi/24RslguGy58/0.jpg" 
 alt="Click to view: Homemade CNC with 3D printed parts V2" width="500" border="1" /></a>
 
 ### Design
