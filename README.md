@@ -1,5 +1,9 @@
 ## Homemade CNC 
 
+### Warning!
+
+If you want to build one yourself you can download all the necessary files from the V2 directory but I don't have enough time to give you much support so build it at your own risk! :smiley:
+
 ### Introduction
 
 This is the second version of my DIY homemade CNC. It's a complete redesign because of some issues that I had with the first one. The main issue with the first version was that the wooden Y axis was getting warped (by moisture I guess). Also the bearings were too small and the aluminium X rails were not strong enough to carry the weight. That's why I've switched over to use 20mm x 20mm square steel tubes for both Y- and X axis. 
@@ -15,10 +19,6 @@ I've designed the 3D printed parts with Fusion 360 and used Inkscape for the Y a
 
 * [GRBL](https://github.com/gnea/grbl)
 * [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield/)
-
-### Warning
-
-If you want to build one yourself you can download all the necessary files from the V2 directory but I don't have enough time to give you much support so build it at your own risk! :smiley:
 
 ### 3D Printing
 
