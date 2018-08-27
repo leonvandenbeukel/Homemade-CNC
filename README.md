@@ -51,6 +51,10 @@ To power the NEMA 17 stepper motors I've converted an old ATX PC power supply an
 
 ### Help me make more stuff!
 
-All my designs are free to use! If you want to support my work you can buy me a coffee at https://www.buymeacoffee.com/beukel Thanks!
+All my designs are free to use! If you want to support my work you can donate:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BHBNRDLRQA3EJ)
+
+Thanks!
 
 
